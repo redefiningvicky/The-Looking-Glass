@@ -36,11 +36,43 @@
 
 <h2 id="inspiration">🎬 Inspiration</h2>
 
+<h3>Yennefer of Vengerberg from the Witcher — from the first glass to the last</h3>
+
+<h3>Harry Potter and the Half-Blood Prince's In Love With Who? Scene</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/6i81DZj7uXE?si=0HW9FsP16tBhihNI">
+        <img
+          src="https://youtu.be/6i81DZj7uXE?si=0HW9FsP16tBhihNI/hqdefault.jpg"
+          alt="Yennefer of Vengerberg from the Witcher inspiration video"
+          width="480"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://youtu.be/6i81DZj7uXE?si=qurQ6fXLw80jrxkG">Watch Video</a>
+
+
+
+<img
+          src="https://i0.wp.com/witchcraftsofsalemva.com/wp-content/uploads/2020/09/tumblr_c61a04183b057b46f77fe7f4d4ea3add_201989b9_640.gif?resize=500%2C292&ssl=1"
+
+
+
+
+
+
+
+
+
 <h3>Yennefer of Vengerberg — from the first glass to the last</h3>
 
 <p>
   Every part of this app came out of
-  <a href="https://www.netflix.com/tudum/videos/yennefer-of-vengerberg-or-the-witcher-s1">Yennefer</a>:
   a woman handed a childhood that treated her as worthless, who refuses to
   carry it any further and makes her own power out of what was done to her.
 </p>
@@ -64,7 +96,6 @@
 
 <p>
   The ending belongs to
-  <a href="https://wot.fandom.com/wiki/Egwene_al%27Vere">Egwene</a>,
   an innkeeper's daughter who is collared and broken as a damane and still
   rises to the Amyrlin Seat, taking every punishment on the way and claiming
   the seat anyway. On the fifth release the candle is no longer at the far
@@ -72,6 +103,19 @@
   It erupts, and it is yours. Like Yennefer at the end of her own story,
   you leave holding your full power.
 </p>
+
+<table>
+  <tr>
+    <td>
+        <img
+          src="https://www.denofgeek.com/wp-content/uploads/2023/12/the-wheel-of-time-season-2-episode-8-egwene-renna-prime-video.jpg?fit=1600%2C912"
+          width="480"
+          alt="Egwene al'Vere from the Wheel of Time"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3>Through the Looking-Glass — the doorway</h3>
 
