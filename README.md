@@ -18,6 +18,7 @@
   <li><a href="#objective">Objective</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#project-details">Project Details</a></li>
+  <li><a href="#experience">Experience</a></li>
   <li><a href="#privacy">Privacy</a></li>
   <li><a href="#app">App</a></li>
   <li><a href="#images">Images</a></li>
@@ -29,13 +30,7 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-  A small ritual for adults still carrying what childhood handed them.
-  There are no replies, no advice and no reflections written in advance.
-  You name one fear, step through the glass, and hold a key until it turns.
-  The words crumble into the flame of a candle at the end of a dark hall.
-  Five releases bring the candle closer, and the fifth erupts and carries
-  you back out. The mirror answers nothing. It only takes the words,
-  and leaves the light with you.
+
 </p>
 
 <hr>
@@ -102,12 +97,20 @@
 </p>
 
 <p>
-  <strong>Format:</strong> Browser app, one screen, no scrolling
+  <strong>Format:</strong> Browser app
 </p>
 
+<hr>
+
+<h2 id="experience">🕯️ Experience</h2>
 <p>
-  <strong>Crisis support:</strong> one tap away from every screen
-  (988, Crisis Text Line, and a worldwide helpline finder)
+  A small ritual for adults still carrying what childhood handed them.
+  There are no replies, no advice and no reflections written in advance.
+  You name one fear, step through the glass, and hold a key until it turns.
+  The words crumble into the flame of a candle at the end of a dark hall.
+  Five releases bring the candle closer, and the fifth erupts and carries
+  you back out. The mirror answers nothing. It only takes the words,
+  and leaves the light with you.
 </p>
 
 <hr>
