@@ -54,6 +54,21 @@
 
 <a href="https://youtu.be/6i81DZj7uXE?si=qurQ6fXLw80jrxkG">Watch Video</a>
 
+<hr>
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://i0.wp.com/witchcraftsofsalemva.com/wp-content/uploads/2020/09/tumblr_c61a04183b057b46f77fe7f4d4ea3add_201989b9_640.gif?resize=500%2C292&ssl=1"
+        alt="Yennefer of Vengerberg from the Witcher inspiration video"
+        width="480"
+      />
+    </td>
+  </tr>
+</table>
+
+
 <p>
   Every part of this app came out of
   a woman handed a childhood that treated her as worthless, who refuses to
