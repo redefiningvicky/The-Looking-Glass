@@ -4,8 +4,8 @@
   <h1>🪞 The Looking Glass</h1>
 
   <p>
-    A quiet mirror. Say what you fear, hold the key,
-    and watch it burn away.
+    A quiet mirror saying what we fear, holding the key,
+    and watching it burn away.
   </p>
 
 </div>
