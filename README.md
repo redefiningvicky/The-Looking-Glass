@@ -31,36 +31,52 @@
 <p>
   A small ritual for adults still carrying what childhood handed them.
   There are no replies, no advice and no reflections written in advance.
-  A person writes one fear into the mirror, steps through the glass,
-  holds a key until it turns, and the words crumble into the flame of a
-  candle at the end of a dark hall. Five releases bring the candle close,
-  and the fifth erupts and carries them back out into golden light.
-  The mirror answers nothing. It only takes the words and lets them go.
+  You name one fear, step through the glass, and hold a key until it turns.
+  The words crumble into the flame of a candle at the end of a dark hall.
+  Five releases bring the candle closer, and the fifth erupts and carries
+  you back out. The mirror answers nothing. It only takes the words,
+  and leaves the light with you.
 </p>
 
 <hr>
 
 <h2 id="inspiration">🎬 Inspiration</h2>
 
-<h3>Yennefer of Vengerberg, and taking the power back</h3>
-
 <p>
-  The feeling the app reaches for belongs to
-  <a href="https://www.netflix.com/tudum/videos/yennefer-of-vengerberg-or-the-witcher-s1">Yennefer of Vengerberg</a>:
-  a woman who walks out of a childhood that treated her as worthless and
-  refuses to carry it any further. Her chaos magic gave the app its colours,
-  violet and gold, and gave the release its shape. Letting a fear go is not
-  a gentle sigh here. It burns, and the light it leaves behind is yours.
+  Two women who were handed a small, cruel beginning and refused to stay
+  inside it. The app borrows their arc: not comfort, not forgiveness,
+  but power taken back.
 </p>
 
-<h3>Through the Looking-Glass</h3>
+<h3>Yennefer of Vengerberg — the chaos she turns into power</h3>
 
 <p>
-  The name and the doorway come from Lewis Carroll's
+  <a href="https://www.netflix.com/tudum/videos/yennefer-of-vengerberg-or-the-witcher-s1">Yennefer</a>
+  walks out of a childhood that treated her as worthless and makes herself
+  into one of the most powerful sorceresses alive. Her chaos gave this app
+  its colours, violet and gold, and gave the release its shape. Letting go
+  is not a gentle sigh here. It burns.
+</p>
+
+<h3>Egwene al'Vere — claiming her full power</h3>
+
+<p>
+  <a href="https://wot.fandom.com/wiki/Egwene_al%27Vere">Egwene</a>
+  is an innkeeper's daughter from a village nobody watches. She is collared
+  and broken as a damane, and still rises to the Amyrlin Seat, taking every
+  punishment on the way and claiming the seat anyway. That is where the
+  fifth release goes: the candle no longer at the far end of the hall,
+  the light no longer something to walk toward. It erupts, and it is yours.
+</p>
+
+<h3>Through the Looking-Glass — the doorway</h3>
+
+<p>
+  The name and the threshold come from Lewis Carroll's
   <a href="https://www.gutenberg.org/ebooks/12">Through the Looking-Glass</a>,
   where the glass is not a surface but a way into somewhere else. Touch it
-  here and it mists like cold breath; press it and the room on the far side
-  opens.
+  here and it mists like breath on a cold window; press it and the hall on
+  the other side opens.
 </p>
 
 <hr>
@@ -76,7 +92,7 @@
 </p>
 
 <p>
-  <strong>Format:</strong> Mobile App, one screen, no scrolling
+  <strong>Format:</strong> Browser app, one screen, no scrolling
 </p>
 
 <p>
@@ -113,27 +129,27 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/looking-glass-walkthrough.gif">
         <img
           src="looking-glass-promo/looking-glass-walkthrough.gif"
-          alt="The Looking Glass walkthrough: entering the mirror, writing a fear, holding the key, and the words burning into the candle"
-          width="280"
+          alt="Entering the mirror, naming a fear, holding the key, and the words burning into the candle"
+          width="100%"
         />
       </a>
     </td>
   </tr>
 </table>
 
-<h3>The Looking Glass App Showcase</h3>
+<h3>The Arc</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/looking-glass-four-screen-showcase.png">
+      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/looking-glass-showcase.png">
         <img
-          src="looking-glass-promo/looking-glass-four-screen-showcase.png"
-          alt="The Looking Glass four-screen showcase"
+          src="looking-glass-promo/looking-glass-showcase.png"
+          alt="Four beats: standing outside the glass, naming the fear, the words burning, and the fifth release erupting"
           width="100%"
         />
       </a>
@@ -146,44 +162,44 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/01-the-mirror.png">
-        <img
-          src="looking-glass-promo/01-the-mirror.png"
-          alt="The mirror seen from outside, before entering"
-          width="100%"
-        />
+      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/01-outside.png">
+        <img src="looking-glass-promo/01-outside.png" alt="The mirror seen from outside, before entering" width="100%" />
       </a>
     </td>
   </tr>
 </table>
 
-<h3>Say What You Fear</h3>
+<h3>Name It</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/02-say-the-fear.png">
-        <img
-          src="looking-glass-promo/02-say-the-fear.png"
-          alt="Inside the glass, a fear written out"
-          width="100%"
-        />
+      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/02-the-fear.png">
+        <img src="looking-glass-promo/02-the-fear.png" alt="Inside the glass, a fear named" width="100%" />
       </a>
     </td>
   </tr>
 </table>
 
-<h3>Let It Go</h3>
+<h3>Let It Burn</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/04-let-it-go.png">
-        <img
-          src="looking-glass-promo/04-let-it-go.png"
-          alt="The words lifting and burning into the flame"
-          width="100%"
-        />
+      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/04-burn.png">
+        <img src="looking-glass-promo/04-burn.png" alt="The words lifting and burning into the flame" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3>The Fifth Release</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/07-finale-c.png">
+        <img src="looking-glass-promo/07-finale-c.png" alt="The fifth release: an eruption of violet and gold" width="100%" />
       </a>
     </td>
   </tr>
@@ -194,12 +210,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/05-support.png">
-        <img
-          src="looking-glass-promo/05-support.png"
-          alt="Crisis support, one tap away from any screen"
-          width="100%"
-        />
+      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/09-support.png">
+        <img src="looking-glass-promo/09-support.png" alt="Crisis support, one tap away from every screen" width="100%" />
       </a>
     </td>
   </tr>
