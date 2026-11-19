@@ -112,16 +112,6 @@
 
 <hr>
 
-<h2 id="app">📱 App</h2>
-
-<p>
-  <a href="https://redefiningvicky.github.io/The-Looking-Glass/">
-    Enter the Mirror
-  </a>
-</p>
-
-<hr>
-
 <h2 id="privacy">🔒 Privacy</h2>
 
 <p>
@@ -129,6 +119,16 @@
   account, no journal and no history. The site counts anonymous visits only,
   never your words. This is a quiet ritual, not therapy or medical care.
   For ages 18+.
+</p>
+
+<hr>
+
+<h2 id="app">📱 App</h2>
+
+<p>
+  <a href="https://redefiningvicky.github.io/The-Looking-Glass/">
+    Enter the Mirror
+  </a>
 </p>
 
 <hr>
@@ -144,7 +144,7 @@
         <img
           src="looking-glass-promo/looking-glass-walkthrough.gif"
           alt="Entering the mirror, naming a fear, holding the key, and the words burning into the candle"
-          width="250%"
+          width="100%"
         />
       </a>
     </td>
