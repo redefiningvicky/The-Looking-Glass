@@ -38,14 +38,12 @@
 
 <h3>Yennefer of Vengerberg from the Witcher — from the first glass to the last</h3>
 
-<h3>Harry Potter and the Half-Blood Prince's In Love With Who? Scene</h3>
-
 <table>
   <tr>
     <td>
-      <a href="https://youtu.be/6i81DZj7uXE?si=0HW9FsP16tBhihNI">
+      <a href="https://youtu.be/6i81DZj7uXE?si=hVWT4uF1DUgYe_PM">
         <img
-          src="https://youtu.be/6i81DZj7uXE?si=0HW9FsP16tBhihNI/hqdefault.jpg"
+          src="https://img.youtube.com/vi/6i81DZj7uXE/hqdefault.jpg"
           alt="Yennefer of Vengerberg from the Witcher inspiration video"
           width="480"
         />
@@ -55,21 +53,6 @@
 </table>
 
 <a href="https://youtu.be/6i81DZj7uXE?si=qurQ6fXLw80jrxkG">Watch Video</a>
-
-
-
-<img
-          src="https://i0.wp.com/witchcraftsofsalemva.com/wp-content/uploads/2020/09/tumblr_c61a04183b057b46f77fe7f4d4ea3add_201989b9_640.gif?resize=500%2C292&ssl=1"
-
-
-
-
-
-
-
-
-
-<h3>Yennefer of Vengerberg — from the first glass to the last</h3>
 
 <p>
   Every part of this app came out of
@@ -132,11 +115,15 @@
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p>
-  <strong>Tools:</strong> Lovable, Claude, Github, Github Pages
+  <strong>Tools:</strong> Lovable, Claude, ChatGPT, Github
 </p>
 
 <p>
-  <strong>Workflow:</strong> Lovable → Github → Github Pages
+  <strong>Workflow:</strong> Claude → Lovable → ChatGPT → Claude & Lovable → Github
+</p>
+
+<p>
+  <strong>Models:</strong> Claude Sonnet 4.6 (2026), Claude Sonnet 5.5 (2026), Claude Opus 5 (2026), ChatGPT 6.2 Sol (2026)
 </p>
 
 <p>
