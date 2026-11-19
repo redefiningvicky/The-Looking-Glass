@@ -5,7 +5,7 @@
 
   <p>
     A quiet mirror. Say what you fear, hold the key,
-    and watch it burn away. Nothing is saved or sent.
+    and watch it burn away.
   </p>
 
 </div>
