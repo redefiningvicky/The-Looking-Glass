@@ -42,31 +42,41 @@
 
 <h2 id="inspiration">🎬 Inspiration</h2>
 
+<h3>Yennefer of Vengerberg — from the first glass to the last</h3>
+
 <p>
-  Two women who were handed a small, cruel beginning and refused to stay
-  inside it. The app borrows their arc: not comfort, not forgiveness,
-  but power taken back.
+  Every part of this app came out of
+  <a href="https://www.netflix.com/tudum/videos/yennefer-of-vengerberg-or-the-witcher-s1">Yennefer</a>:
+  a woman handed a childhood that treated her as worthless, who refuses to
+  carry it any further and makes her own power out of what was done to her.
 </p>
 
-<h3>Yennefer of Vengerberg — the chaos she turns into power</h3>
-
 <p>
-  <a href="https://www.netflix.com/tudum/videos/yennefer-of-vengerberg-or-the-witcher-s1">Yennefer</a>
-  walks out of a childhood that treated her as worthless and makes herself
-  into one of the most powerful sorceresses alive. Her chaos gave this app
-  its colours, violet and gold, and gave the release its shape. Letting go
-  is not a gentle sigh here. It burns.
+  That is why the app is a mirror and not a chat. Yennefer is never consoled
+  out of her pain, so nothing here offers comfort: no replies, no advice,
+  no reflections written in advance, no pity and no platitudes. The mirror
+  takes the words and says nothing back.
 </p>
 
-<h3>Egwene al'Vere — claiming her full power</h3>
+<p>
+  Her chaos set the rest. Violet and gold are her colours. Letting go is not
+  a gentle sigh but a burn: you hold a key until it turns and the words
+  crumble into fire. The dark hall, the single candle at the end of it, and
+  the walk toward that light are the same bargain she makes, pain first and
+  power after.
+</p>
+
+<h3>Egwene al'Vere — where the arc lands</h3>
 
 <p>
-  <a href="https://wot.fandom.com/wiki/Egwene_al%27Vere">Egwene</a>
-  is an innkeeper's daughter from a village nobody watches. She is collared
-  and broken as a damane, and still rises to the Amyrlin Seat, taking every
-  punishment on the way and claiming the seat anyway. That is where the
-  fifth release goes: the candle no longer at the far end of the hall,
-  the light no longer something to walk toward. It erupts, and it is yours.
+  The ending belongs to
+  <a href="https://wot.fandom.com/wiki/Egwene_al%27Vere">Egwene</a>,
+  an innkeeper's daughter who is collared and broken as a damane and still
+  rises to the Amyrlin Seat, taking every punishment on the way and claiming
+  the seat anyway. On the fifth release the candle is no longer at the far
+  end of the hall and the light is no longer something to walk toward.
+  It erupts, and it is yours. Like Yennefer at the end of her own story,
+  you leave holding your full power.
 </p>
 
 <h3>Through the Looking-Glass — the doorway</h3>
