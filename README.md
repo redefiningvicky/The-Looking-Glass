@@ -83,7 +83,7 @@
 
 <p>
   The name and the threshold come from Lewis Carroll's
-  <a href="https://www.gutenberg.org/ebooks/12">Through the Looking-Glass</a>,
+  Through the Looking-Glass</a>,
   where the glass is not a surface but a way into somewhere else. Touch it
   here and it mists like breath on a cold window; press it and the hall on
   the other side opens.
@@ -144,7 +144,7 @@
         <img
           src="looking-glass-promo/looking-glass-walkthrough.gif"
           alt="Entering the mirror, naming a fear, holding the key, and the words burning into the candle"
-          width="100%"
+          width="150%"
         />
       </a>
     </td>
