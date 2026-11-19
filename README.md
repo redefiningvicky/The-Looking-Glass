@@ -144,7 +144,7 @@
         <img
           src="looking-glass-promo/looking-glass-walkthrough.gif"
           alt="Entering the mirror, naming a fear, holding the key, and the words burning into the candle"
-          width="150%"
+          width="250%"
         />
       </a>
     </td>
