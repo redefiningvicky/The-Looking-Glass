@@ -18,10 +18,10 @@
   <li><a href="#objective">Objective</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#project-details">Project Details</a></li>
-  <li><a href="#app">App</a></li>
   <li><a href="#privacy">Privacy</a></li>
+  <li><a href="#app">App</a></li>
   <li><a href="#images">Images</a></li>
-  <li><a href="#credit">Credit</a></li>
+
 </ul>
 
 <hr>
@@ -216,15 +216,6 @@
     </td>
   </tr>
 </table>
-
-<hr>
-
-<h2 id="credit">✨ Credit</h2>
-
-<p>
-  Created by
-  <a href="https://github.com/redefiningvicky/The-Looking-Glass">Vicky Wong</a>.
-</p>
 
 <hr>
 
