@@ -4,7 +4,7 @@
   <h1>🪞 The Looking Glass</h1>
 
   <p>
-    A quiet mirror to what we fear, holding the key while watching it burn away..
+    A quiet mirror to what we fear, holding the key while watching it burn away.
   </p>
 
 </div>
@@ -29,58 +29,79 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-
+This project was created for dreamers living in a dream within a dream. Every part emerged from the story of Yennefer of Vengerberg from The Witcher who was deemed worthless, yet carrying raw, unseen power. Like Egwene al'Vere at the end of The Wheel of Time, dreamers leave holding their full power. This browser app is a mirror, not a chat. There is no comfort, no replies, no advice, no pre-written reflections, no pity, and no platitudes. The mirror takes your words and says nothing back. It chooses full power. Created with Lovable, Claude, ChatGPT, and GitHub, this is a circle of imagination.
 </p>
 
 <hr>
 
 <h2 id="inspiration">🎬 Inspiration</h2>
 
-<h3>Yennefer of Vengerberg — from the first glass to the last</h3>
+<h3>Beginning: Yennefer’s Chaos</h3>
 
-<p>
-  Every part of this app came out of
-  <a href="https://www.netflix.com/tudum/videos/yennefer-of-vengerberg-or-the-witcher-s1">Yennefer</a>:
-  a woman handed a childhood that treated her as worthless, who refuses to
-  carry it any further and makes her own power out of what was done to her.
+<table>
+  <tr>
+    <td align="left" valign="middle">
+      <a href="https://youtu.be/6i81DZj7uXE?si=hVWT4uF1DUgYe_PM">
+        <img
+          src="https://img.youtube.com/vi/6i81DZj7uXE/hqdefault.jpg"
+          alt="Yennefer of Vengerberg from the Witcher inspiration video"
+          width="480"
+        />
+      </a>
+      <br>
+      <a href="https://youtu.be/6i81DZj7uXE?si=qurQ6fXLw80jrxkG">Watch Video</a>
+    </td>
+    <td align="center" valign="middle">
+      <img
+        src="https://i0.wp.com/witchcraftsofsalemva.com/wp-content/uploads/2020/09/tumblr_c61a04183b057b46f77fe7f4d4ea3add_201989b9_640.gif?resize=500%2C292&ssl=1"
+        alt="Yennefer of Vengerberg from the Witcher inspiration image"
+        width="480"
+      />
+    </td>
+  </tr>
+</table>
+
+</p>
+The beginning belongs to Yennefer, who slaved and broke through her restraints as a sorceress. By letting her chaos explode, she accepted her vulnerable past,   alchemizing it into fiery willpower. Her chaos sets the tone—violet and gold are her colors. Letting go is not a gentle sigh, but a burn: dreamers hold the key until it turns and the words crumble into fire. The dark hall, the single candle at the end of it, and the walk toward that light are the same bargain Yennefer makes: pain first, power after.
 </p>
 
+<hr>
+
+<h3>Ending: Egwene’s Light</h3>
+
+<table>
+  <tr>
+    <td align="left" valign="middle">
+      <a href="https://youtu.be/Drvccpxn9H4?si=590GFECoZsIhQDsk">
+        <img
+          src="https://img.youtube.com/vi/Drvccpxn9H4/hqdefault.jpg"
+          alt="Egwene al'Vere from the Wheel of Time inspiration video"
+          width="480"
+        />
+      </a>
+      <br>
+      <a href="https://youtu.be/Drvccpxn9H4?si=590GFECoZsIhQDsk">Watch Video</a>
+    </td>
+    <td align="center" valign="middle">
+      <img
+        src="https://www.denofgeek.com/wp-content/uploads/2023/12/the-wheel-of-time-season-2-episode-8-egwene-renna-prime-video.jpg?fit=1600%2C912"
+        width="480"
+        alt="Egwene al'Vere from the Wheel of Time inspiration image"
+      />
+    </td>
+  </tr>
+</table>
+
 <p>
-  That is why the app is a mirror and not a chat. Yennefer is never consoled
-  out of her pain, so nothing here offers comfort: no replies, no advice,
-  no reflections written in advance, no pity and no platitudes. The mirror
-  takes the words and says nothing back.
+The ending belongs to Egwene, who was collared and broke through her restraints as a damane. By enduring every pain and punishment along the way, she claimed her power. On the fifth release, the candle is no longer at the far end of the hall, and the light is no longer something to walk toward. It erupts, and it is Egwene’s light.
 </p>
 
-<p>
-  Her chaos set the rest. Violet and gold are her colours. Letting go is not
-  a gentle sigh but a burn: you hold a key until it turns and the words
-  crumble into fire. The dark hall, the single candle at the end of it, and
-  the walk toward that light are the same bargain she makes, pain first and
-  power after.
-</p>
+<hr>
 
-<h3>Egwene al'Vere — where the arc lands</h3>
+<h3>The Threshold: Through the Looking-Glass</h3>
 
 <p>
-  The ending belongs to
-  <a href="https://wot.fandom.com/wiki/Egwene_al%27Vere">Egwene</a>,
-  an innkeeper's daughter who is collared and broken as a damane and still
-  rises to the Amyrlin Seat, taking every punishment on the way and claiming
-  the seat anyway. On the fifth release the candle is no longer at the far
-  end of the hall and the light is no longer something to walk toward.
-  It erupts, and it is yours. Like Yennefer at the end of her own story,
-  you leave holding your full power.
-</p>
-
-<h3>Through the Looking-Glass — the doorway</h3>
-
-<p>
-  The name and the threshold come from Lewis Carroll's
-  Through the Looking-Glass</a>,
-  where the glass is not a surface but a way into somewhere else. Touch it
-  here and it mists like breath on a cold window; press it and the hall on
-  the other side opens.
+The name and the threshold come from Lewis Carroll’s Through the Looking-Glass, where the glass is not a surface, but a passage into somewhere else. Touch it here, and it mists like breath on a cold window; press it, and the hall on the other side opens.
 </p>
 
 <hr>
@@ -88,11 +109,15 @@
 <h2 id="project-details">🛠️ Project Details</h2>
 
 <p>
-  <strong>Tools:</strong> Lovable, Claude, Github, Github Pages
+  <strong>Tools:</strong> Lovable, Claude, ChatGPT, Github
 </p>
 
 <p>
-  <strong>Workflow:</strong> Lovable → Github → Github Pages
+  <strong>Workflow:</strong> Claude → Lovable → ChatGPT → Claude & Lovable → Github
+</p>
+
+<p>
+  <strong>Models:</strong> Claude Sonnet 4.6 (2026), Claude Sonnet 5.5 (2026), Claude Opus 5 (2026), ChatGPT 6.2 Sol (2026)
 </p>
 
 <p>
