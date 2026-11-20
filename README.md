@@ -45,7 +45,7 @@ This project was created for dreamers living in a dream within a dream. Every pa
         <img
           src="https://img.youtube.com/vi/6i81DZj7uXE/hqdefault.jpg"
           alt="Yennefer of Vengerberg from the Witcher inspiration video"
-          width="400"
+          width="480"
         />
       </a>
       <br>
@@ -76,7 +76,7 @@ The beginning belongs to Yennefer, who slaved and broke through her restraints a
         <img
           src="https://img.youtube.com/vi/Drvccpxn9H4/hqdefault.jpg"
           alt="Egwene al'Vere from the Wheel of Time inspiration video"
-          width="400"
+          width="480"
         />
       </a>
       <br>
