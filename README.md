@@ -128,7 +128,7 @@ The name and the threshold come from Lewis Carroll’s Through the Looking-Glass
   <tr>
     <td align="center" valign="middle">
       <img
-        src="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/project-details/Choosing-a-Claude-model-for-knowledge-workers-%C2%B7-Claude-Academy-18-11-2026_06_58_PM.png"
+        src="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/project-details/Choosing-a-Claude-model-for-knowledge-workers-Claude-Academy.png"
         width="480"
         alt="Choosing a Claude model for knowledge workers screenshot"
       />
