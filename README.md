@@ -124,6 +124,18 @@ The name and the threshold come from Lewis Carroll’s Through the Looking-Glass
   <strong>Format:</strong> Browser app
 </p>
 
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="https://raw.githubusercontent.com/redefiningvicky/The-Looking-Glass/main/project-details/Choosing-a-Claude-model-for-knowledge-workers-%C2%B7-Claude-Academy-18-11-2026_06_58_PM.png"
+        width="480"
+        alt="Choosing a Claude model for knowledge workers screenshot"
+      />
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 <h2 id="experience">🕯️ Experience</h2>
