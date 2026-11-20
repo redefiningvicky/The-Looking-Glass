@@ -100,7 +100,7 @@ This project was created for dreamers living in a dream within a dream. Every pa
 <p>
   The ending belongs to Egwene who collared and broke through her restraints as a damane.
   By taking every pain and punishment on the way, she claimed her power.
-  On the fifth release the candle is no longer at the far
+  On the fifth release, the candle is no longer at the far
   end of the hall and the light is no longer something to walk toward.
   It erupts and it is Egwene's light. 
 </p>
