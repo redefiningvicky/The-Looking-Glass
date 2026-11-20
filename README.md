@@ -36,7 +36,7 @@ This project was created for dreamers living in a dream within a dream. Every pa
 
 <h2 id="inspiration">🎬 Inspiration</h2>
 
-<h3>Yennefer of Vengerberg from the Witcher — from the first glass to the last</h3>
+<h3>Beginning: Yennefer’s Chaos</h3>
 
 <table>
   <tr>
@@ -62,17 +62,12 @@ This project was created for dreamers living in a dream within a dream. Every pa
 </table>
 
 </p>
-  The beginning and ending belongs to Yennefer who slaved and broke through her restraints as sorceress.
-  By letting her chaos explode, she accepted her vulnerable past in alchemizing fiery willpower. 
-  Her chaos sets the tone. Violet and gold are her colors.
-  Letting go is not a gentle sigh but a burn: dreamers hold the key until it turns and the words
-  crumble into fire. The dark hall, the single candle at the end of it, and the walk toward that light are the same bargain Yennfer makes, pain first and
-  power after.
+The beginning belongs to Yennefer, who slaved and broke through her restraints as a sorceress. By letting her chaos explode, she accepted her vulnerable past,   alchemizing it into fiery willpower. Her chaos sets the tone—violet and gold are her colors. Letting go is not a gentle sigh, but a burn: dreamers hold the key until it turns and the words crumble into fire. The dark hall, the single candle at the end of it, and the walk toward that light are the same bargain Yennefer makes: pain first, power after.
 </p>
 
 <hr>
 
-<h3>Egwene al'Vere from the Wheel of Time — where the arc lands</h3>
+<h3>Ending: Egwene’s Light</h3>
 
 <table>
   <tr>
@@ -98,21 +93,15 @@ This project was created for dreamers living in a dream within a dream. Every pa
 </table>
 
 <p>
-  The ending belongs to Egwene who collared and broke through her restraints as a damane.
-  By taking every pain and punishment on the way, she claimed her power.
-  On the fifth release, the candle is no longer at the far
-  end of the hall and the light is no longer something to walk toward.
-  It erupts and it is Egwene's light. 
+The ending belongs to Egwene, who was collared and broke through her restraints as a damane. By enduring every pain and punishment along the way, she claimed her power. On the fifth release, the candle is no longer at the far end of the hall, and the light is no longer something to walk toward. It erupts, and it is Egwene’s light.
 </p>
 
 <hr>
 
-<h3>Through the Looking-Glass — the doorway</h3>
+<h3>The Threshold: Through the Looking-Glass</h3>
 
 <p>
-  The name and the threshold come from Lewis Carroll's
-  Through the Looking-Glass where the glass is not a surface but a way into somewhere else. Touch it
-  here and it mists like breath on a cold window; press it and the hall on the other side opens.
+The name and the threshold come from Lewis Carroll’s Through the Looking-Glass, where the glass is not a surface, but a passage into somewhere else. Touch it here, and it mists like breath on a cold window; press it, and the hall on the other side opens.
 </p>
 
 <hr>
