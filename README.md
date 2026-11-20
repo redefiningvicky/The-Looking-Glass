@@ -4,7 +4,7 @@
   <h1>🪞 The Looking Glass</h1>
 
   <p>
-    A quiet mirror to what we fear, holding the key while watching it burn away.
+    A quiet mirror to what dreamers fear, holding the key while watching it burn away.
   </p>
 
 </div>
@@ -128,7 +128,7 @@ The name and the threshold come from Lewis Carroll’s Through the Looking-Glass
   <tr>
     <td align="center" valign="middle">
       <img
-        src="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/project-details/Choosing-a-Claude-model-for-knowledge-workers-%C2%B7-Claude-Academy-18-11-2026_06_58_PM.png"
+        src="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/project-details/Choosing-a-Claude-model-for-knowledge-workers-Claude-Academy.png"
         width="480"
         alt="Choosing a Claude model for knowledge workers screenshot"
       />
@@ -140,13 +140,7 @@ The name and the threshold come from Lewis Carroll’s Through the Looking-Glass
 
 <h2 id="experience">🕯️ Experience</h2>
 <p>
-  A small ritual for adults still carrying what childhood handed them.
-  There are no replies, no advice and no reflections written in advance.
-  You name one fear, step through the glass, and hold a key until it turns.
-  The words crumble into the flame of a candle at the end of a dark hall.
-  Five releases bring the candle closer, and the fifth erupts and carries
-  you back out. The mirror answers nothing. It only takes the words,
-  and leaves the light with you.
+A small ritual for adults still carrying what childhood handed them. There are no replies, no advice, and no reflections written in advance. Dreamers name one fear, step through the glass, and hold a key until it turns. The words crumble into the flame of a candle at the end of a dark hall. Five releases bring the candle closer. The fifth erupts, and carries the dreamer back out. The mirror answers nothing. It only takes the words, and leaves the light with the dreamer.
 </p>
 
 <hr>
@@ -154,9 +148,9 @@ The name and the threshold come from Lewis Carroll’s Through the Looking-Glass
 <h2 id="privacy">🔒 Privacy</h2>
 
 <p>
-  What you write is never saved and never leaves your device. There is no
+  What dreamers write is never saved and never leaves their device. There is no
   account, no journal and no history. The site counts anonymous visits only,
-  never your words. This is a quiet ritual, not therapy or medical care.
+  never their words. This is a quiet ritual, not therapy or medical care.
   For ages 18+.
 </p>
 
