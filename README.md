@@ -248,6 +248,18 @@ A small ritual for adults still carrying what childhood handed them. There are n
   </tr>
 </table>
 
+<h3>Gentle Words, Any Hour</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/The-Looking-Glass/blob/main/looking-glass-promo/09-support.png">
+        <img src="looking-glass-promo/09-support.png" alt="Need support? opens a few kind words, one tap away from every screen" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <hr>
 
